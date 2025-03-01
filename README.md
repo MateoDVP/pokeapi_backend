@@ -12,4 +12,4 @@ Este es el backend para la prueba técnica de PokeAPI.
 
 ## Base de datos
 
-Puedes revisar los datos en la siguiente url:
+Puedes revisar los datos en la siguiente url: mongodb+srv://mateohp73:mateohp2004@cluster0.xi1im.mongodb.net/pokeapi?retryWrites=true&w=majority
